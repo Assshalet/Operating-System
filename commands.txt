@@ -1,0 +1,6 @@
+1) su root
+2)sudo useradd student 
+password:student 
+3)ls /home (to check new dir)
+4)switch user
+5)whoami
